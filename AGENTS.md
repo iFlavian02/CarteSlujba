@@ -19,6 +19,17 @@ Acesta este un proiect editorial/liturgic, nu software. Lucrează ca cercetător
 - Nu modifica definițiile codurilor sau arhitectura proiectului fără cerere explicită.
 - Nu crea cod/software decât dacă este cerut sau necesar pentru o sarcină tehnică explicită.
 
+## Manuscrisul din `carte/`
+
+`carte/` trebuie să poată fi folosit direct la slujbă, fără consultarea Ceaslovului pentru textele fixe.
+
+- Scrie integral în `carte/` textul fix care trebuie citit sau cântat: psalmi, rugăciuni, tropare fixe, ectenii, ecfonise și celelalte texte fixe necesare slujbei.
+- Nu înlocui textul fix prin trimiteri precum „se citește Psalmul 103”, „se citesc psalmii din Ceaslov” sau `[CEASLOV]`.
+- Ceaslovul și celelalte surse sunt folosite pentru verificarea și preluarea textului, nu ca substitut pentru textul din carte.
+- Trimiterile se folosesc numai pentru materialul variabil care depinde de zi, glas, sfânt, praznic sau caz tipiconal.
+- Pentru materialul variabil indică scurt ce se ia și de unde: `OCTOIH`, `MINEI` etc.
+- Păstrează textul în ordinea exactă în care este folosit la slujbă.
+
 ## Metodă
 
 Pentru fiecare punct liturgic stabilește:

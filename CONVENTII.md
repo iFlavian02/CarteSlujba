@@ -21,3 +21,15 @@ Material variabil:
 [CEASLOV]
 
 Textul final și cercetarea se păstrează separat.
+
+## Text fix și text variabil
+
+**Text fix:** se reproduce integral în manuscris.
+
+**Text variabil:** nu se reproduce dacă depinde de zi/glas/praznic; se indică exact ce trebuie luat și din ce carte.
+
+Exemplu:
+
+[TIPIC B2]
+→ OCTOIH: 3 stihiri ale Învierii + 1 a lui Anatolie
+→ MINEI: 6 stihiri ale sfântului
