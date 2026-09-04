@@ -24,8 +24,12 @@ https://slujbe.teologie.net/Octoihul-Mare.html
 ## Minei
 https://slujbe.teologie.net/Mineiele-Bisericii-Ortodoxe.html
 
+## Psaltirea
+https://slujbe.teologie.net/Psaltirea-lui-David.html
+
 ## Prioritate
 Tipic = rânduială
 Ceaslov = text fix
 Octoih = Duminică/glas
 Minei = sfânt/praznic
+Psaltirea = psalmi
