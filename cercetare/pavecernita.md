@@ -2,6 +2,8 @@
 
 ## Obiectul cercetării
 
+Notă editorială: canonul Pavecerniței a fost eliminat intenționat din manuscris, la cererea utilizatorului. Datele despre canon se păstrează aici ca documentare a surselor; nu constituie o cerere de reintroducere în carte.
+
 Documentul stabilește rânduiala Pavecerniței care aparține zilei liturgice de Duminică, adică slujba săvârșită sâmbătă seara, în perioada în care se cântă Octoihul. Sunt cercetate:
 
 - felul Pavecerniței: mică sau mare;
@@ -27,7 +29,7 @@ Pentru rânduială are prioritate Tipicul; Ceaslovul stabilește corpul fix al s
 ## Concluzia principală
 
 [RUBRICA]
-În perioada Octoihului, sâmbătă seara spre Duminică, **atunci când Vecernia și Utrenia se săvârșesc separat**, se pune **Pavecernița mică**. Pavecernița mare nu este rânduiala acestei seri.
+În rânduiala obișnuită a perioadei Octoihului, sâmbătă seara spre Duminică, **atunci când Vecernia și Utrenia se săvârșesc separat**, se pune **Pavecernița mică**. Această regulă nu acoperă automat praznicele cu rânduială proprie. La Nașterea Domnului se prescrie Pavecernița mare în orice zi ar cădea praznicul, inclusiv Duminica; vezi verificarea nominală de mai jos.
 
 [RUBRICA]
 În schema în care Vecernia și Utrenia se săvârșesc separat, Tipicul, seria întâi, cap. 9, așază Pavecernița după masa de seară: după Vecernie se merge la trapeză, apoi se bate toaca mică, obștea se adună în pridvor și se cântă Pavecernița „după obicei cu Canonul”. Utrenia urmează mai târziu, la vremea ei.
@@ -124,14 +126,16 @@ Aceste ranguri sunt în mod normal legate în Tipic de Priveghere sau de o rând
 [DE VERIFICAT]
 Nu a fost identificată în capitolele generale o formulă unică pentru cazul în care, din iconomie, Vecernia și Utrenia unui sfânt cu Polieleu/Priveghere sau ale unui hram se săvârșesc separat, dar se dorește și Pavecernița. Nu se transferă automat regula B1 și nu se introduce automat nici condacul Învierii, nici al sfântului/hramului. Se verifică rubrica nominală din Tipic și Minei.
 
+Reverificare: seria a cincea trimite pentru sfinții cu Priveghere, Polieleu sau slujbă pe șase căzuți Duminica la capitolele 7–9 ale seriei întâi. Aceste capitole nu precizează condacul Pavecerniței pentru B2/C1; cap. 9 indică numai săvârșirea Pavecerniței după cină. Trimiterea nu rezolvă lacuna.
+
 ### D1 și D2 împreună cu un sfânt mare
 
 [TIPIC D1] [TIPIC D2]
 Pentru Duminica aflată în perioada de înainte-prăznuire sau după-prăznuire, împreună cu pomenirea unui sfânt mare, Tipicul, seria a cincea, prescrie la Pavecerniță:
 
 1. → MINEI: condacul sfântului;
-2. `Slavă...`;
-3. → MINEI: condacul praznicului, la `Și acum...`.
+2. `Slavă... Și acum...`;
+3. → MINEI: condacul praznicului.
 
 Aceasta este o regulă explicită numai pentru combinația numită de sursă, adică Duminică + perioadă de praznic + sfânt mare. Nu se extinde mecanic la A1, A2, B1, C2 sau C3.
 
@@ -139,6 +143,24 @@ Aceasta este o regulă explicită numai pentru combinația numită de sursă, ad
 
 [DE VERIFICAT]
 Nu rezultă din capitolele generale consultate o singură formulă universală pentru toate înainte-prăznuirile, după-prăznuirile, odovaniile și praznicele căzute Duminica. Exemplele calendaristice pun frecvent condacul praznicului la Pavecerniță, dar unele mută acolo și slujba unui sfânt, un canon al înainte-prăznuirii ori alt material care nu încape în slujba principală. Se verifică întotdeauna praznicul și data nominală.
+
+## Cazuri nominale reverificate
+
+### Nașterea Domnului — E1
+
+Tipicul prescrie Pavecernița mare la Nașterea Domnului indiferent de ziua săptămânii, deci și când praznicul cade Duminica. Urmează Litia și celelalte elemente proprii Privegherii. Nu este o simplă schimbare a condacului în Pavecernița mică. Manuscrisul indică excepția înaintea începutului slujbei; nu reproduce aici slujba mare. [Sursa: seria a doua, 25 decembrie](https://slujbe.teologie.net/TIPICUL-SERIA-INTAI/TIPICUL-SERIA-A-DOUA-pag-1.html).
+
+### Sfântul Dimitrie — 26 octombrie, Duminica, fără Priveghere
+
+După rugăciunile începătoare se pune condacul Sfântului Dimitrie, apoi `Slavă... Și acum...` și condacul Cutremurului. Este o regulă nominală; nu stabilește formula tuturor sfinților cu Polieleu și nu se transferă automat hramului Sfântului Dimitrie, pentru care există capitol separat. [Sursa: seria a doua, 26 octombrie](https://slujbe.teologie.net/TIPICUL-SERIA-INTAI/TIPICUL-SERIA-A-DOUA-pag-1.html).
+
+### Hramul Sfântului Simeon Stâlpnicul — C2, 1 septembrie
+
+Pentru hramul căzut Duminica, împreună cu Indictul, fără Priveghere de toată noaptea: condacul hramului, apoi `Slavă... Și acum...` și condacul Indictului. Acest caz nu furnizează o formulă universală C2. [Sursa: seria a șasea, cap. 1](https://slujbe.teologie.net/TIPICUL-SERIA-INTAI/tipicul-seria-a-sasea.html).
+
+### Hramurile Maicii Domnului — C3
+
+Capitolul 8 trimite hramurile Maicii Domnului căzute Duminica la rânduiala Nașterii Maicii Domnului, 8 septembrie. Trimiterea este confirmată, dar nu precizează în acel capitol condacul Pavecerniței. [DE VERIFICAT] Aplicarea la Pavecernița săvârșită separat, prin confruntarea rânduielii indicate cu Mineiul praznicului concret. [Sursa: seria a șasea, cap. 8](https://slujbe.teologie.net/TIPICUL-SERIA-INTAI/tipicul-seria-a-sasea.html).
 
 ## Canoane și slujbe mutate la Pavecerniță
 
@@ -161,6 +183,10 @@ O asemenea mutare este **nominală**, nu o regulă generală a codului tipiconal
 În unele exemple, Tipicul spune numai că „slujba” unui sfânt se cântă la Pavecerniță, fără să explice în același pasaj ce părți ale slujbei sunt transferate. Nu trebuie echivalată această expresie, fără verificare, nici cu „se citește doar canonul”, nici cu „se transferă integral Vecernia și Utrenia”.
 
 ## Neconcordanțe și limite ale surselor digitale
+
+### Corectura rugăciunii înainte de somn
+
+În manuscris a fost corectată forma `îl adoarme` în `îl adormi`, conform cererii din rugăciunea adresată lui Dumnezeu. [Sursa: Ceaslov, rugăciunea „Și ne dă nouă, Stăpâne…”](https://slujbe.teologie.net/index.html#pavecernita).
 
 ### Condacul singur sau împreună cu troparele fixe
 
@@ -197,19 +223,21 @@ Nu trebuie confundat acest canon al Pavecerniței cu cele trei canoane ale Învi
 | C3 | după rânduiala praznicului/ hramului | după rubrica nominală | după rubrica nominală | fără formulă universală |
 | D1/D2 + sfânt mare | mică numai dacă slujbele sunt separate | după rubrica zilei | condacul sfântului; `Slavă... Și acum...` al praznicului | confirmat explicit |
 | D1–D3, alte combinații | după rubrica zilei | poate înlocui canonul obișnuit | după rubrica zilei | [DE VERIFICAT] nominal |
-| E1/E2 | în mod obișnuit rânduială de praznic/Priveghere | după praznicul concret | după praznicul concret | nu se generalizează |
+| E1 — Nașterea Domnului | mare, cu rânduiala proprie praznicului | după rânduiala proprie | după rânduiala proprie | confirmat; nu se înlocuiește cu forma mică |
+| E1 — celelalte praznice / E2 | după praznicul concret | după praznicul concret | după praznicul concret | [DE VERIFICAT] nominal |
 
 ## Concluzii editoriale pentru manuscris
 
 1. Capitolul `carte/03-pavecernita.md` trebuie redactat în primul rând ca Pavecerniță mică, cu toate textele fixe integral.
 2. Trebuie prevăzute două începuturi: după Vecernie și după masa de seară; forma tipiconală de bază este după cină.
-3. Canonul variabil de bază se indică precis: `OCTOIHUL MIC — Canonul Maicii Domnului, Sâmbătă seara, glasul de rând`.
-4. După canon și `Tatăl nostru...`, pentru A1–A2 se indică `OCTOIH — condacul Învierii, glasul de rând`.
+3. Canonul rămâne exclus din manuscris prin decizia editorială explicită a utilizatorului; cercetarea lui se păstrează în acest document.
+4. După `Tatăl nostru...`, pentru A1–A2 se indică `OCTOIH — condacul Învierii, glasul de rând`.
 5. Pentru B1 se indică un singur condac al sfântului din Minei.
 6. Pentru D1/D2 + sfânt mare se scrie ordinea confirmată: condacul sfântului, `Slavă... Și acum...`, condacul praznicului.
 7. Pentru celelalte ranguri și coincidențe se introduce o rubrică de verificare nominală, nu o formulă calculată din cod.
 8. Înaintea unei Privegheri de toată noaptea nu se introduce automat o Pavecerniță obștească: schema Tipicului trece de la cină la așteptarea toacei și apoi la Vecernia Mare unită cu Utrenia.
 9. Materialul mutat la Pavecerniță se scrie numai pe baza rubricii concrete din Tipic/Minei; expresia generică „slujba sfântului” nu este suficientă pentru redactarea practică.
+10. Pentru E1, excepția Nașterii Domnului se indică înaintea începutului Pavecerniței mici. Cazurile confirmate de la 1 septembrie și 26 octombrie se disting de regulile generale și de hramurile încă neclarificate.
 
 ## Puncte rămase de verificat înainte de redactarea definitivă
 
@@ -217,7 +245,7 @@ Nu trebuie confundat acest canon al Pavecerniței cu cele trei canoane ale Învi
 - [DE VERIFICAT] Formula exactă a Pavecerniței când un sfânt cu Polieleu este slujit fără Priveghere de toată noaptea.
 - [DE VERIFICAT] Rânduiala separată pentru fiecare hram C2/C3 care cade Duminica și pentru cazurile în care Tipicul mută un canon la Pavecerniță.
 - [DE VERIFICAT] Fiecare înainte-prăznuire, după-prăznuire și odovanie în combinațiile A/B/C; regula verificată pentru „sfânt mare” nu se extinde la celelalte ranguri.
-- [DE VERIFICAT] Fiecare praznic E1/E2 nominal, inclusiv dacă Pavecernița este omisă din cauza Privegherii ori primește material propriu.
+- [DE VERIFICAT] Celelalte praznice E1/E2 nominal: felul Pavecerniței, locul ei față de Priveghere și materialul propriu. Pentru Nașterea Domnului, forma mare este confirmată; redactarea ei integrală nu face parte din corectarea acestui capitol despre forma mică.
 - [DE VERIFICAT] Dacă în practica editorială adoptată de proiect rugăciunile finale și ectenia de obște se reproduc după forma monahală completă a Ceaslovului sau după o ediție destinată bisericilor de enorie. Aceasta este o alegere de ediție, nu o regulă ce poate fi completată din practică locală.
 
 Până la rezolvarea acestor puncte, manuscrisul nu trebuie să transforme o excepție calendaristică sau o practică parohială într-o regulă generală a Pavecerniței de Duminică.
