@@ -156,7 +156,7 @@ Doamne miluiește. (de 3 ori)
 
 Preot:
 
-Încă ne rugăm pentru Preafericitul Părintele nostru [N], Patriarhul Bisericii Ortodoxe Române, pentru Înaltpreasfințitul Arhiepiscopul și Mitropolitul nostru [N], pentru Preasfințitul nostru Episcop [N], pentru sănătatea și mântuirea lor.
+Încă ne rugăm pentru Înaltpreasfințitul Arhiepiscopul și Mitropolitul nostru [N], pentru Preasfințitul nostru Episcop [N], pentru sănătatea și mântuirea lor.
 
 [TEXT]
 
@@ -236,7 +236,7 @@ Doamne, buzele mele vei deschide și gura mea va vesti lauda Ta. (de 2 ori)
 
 [RUBRICA]
 
-Cei șase psalmi se citesc cu glas încet și lin, în ordinea care urmează: Psalmii 3, 37, 62, 87, 102 și 142.
+Cei șase psalmi se citesc cu glas încet și lin
 
 ### Psalmul 3
 
@@ -278,22 +278,15 @@ Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în veci
 
 [RUBRICA]
 
-Preotul iese din Sfântul Altar, își descoperă capul și citește în taină, înaintea ușilor împărătești, ultimele șase rugăciuni ale dimineții.
-
-[DE VERIFICAT]
-
-Textul integral și locurile exacte ale celor două grupuri de câte șase rugăciuni ale dimineții trebuie introduse după confruntarea cu ediția liturgică folosită pentru slujirea preotului.
+Preotul iese din Sfântul Altar, înaintea ușilor împărătești, citind rugăciunile dimineții.
 
 ### Psalmul 87
 
 [TEXT]
 
 Doamne, Dumnezeul mântuirii mele, ziua am strigat și noaptea înaintea Ta. Să intre înaintea Ta rugăciunea mea; pleacă urechea Ta spre ruga mea, Doamne, că s-a umplut de rele sufletul meu și viața mea de iad s-a apropiat. Socotit am fost cu cei ce se coboară în groapă; ajuns-am ca un om neajutorat, între cei morți slobod. Ca niște oameni răniți ce dorm în mormânt, de care nu Ți-ai mai adus aminte și care au fost lepădați de la mâna Ta.
-
 Pusu-m-au în groapa cea mai de jos, întru cele întunecate și în umbra morții. Asupra mea s-a întărit mânia Ta și toate valurile Tale le-ai adus peste mine. Depărtat-ai pe cunoscuții mei de la mine, ajuns-am urâciune lor, închis am fost și n-am putut ieși. Ochii mei au slăbit de suferință. Strigat-am către Tine, Doamne, toată ziua; întins-am către Tine mâinile mele.
-
 Oare morților vei face minuni? Sau cei morți se vor scula și Te vor lăuda pe Tine? Oare va spune cineva în mormânt mila Ta și adevărul Tău în locul pierzării? Oare se vor cunoaște întru întuneric minunile Tale și dreptatea Ta în pământ uitat? Iar eu către Tine, Doamne, am strigat și dimineața rugăciunea mea Te va întâmpina. Pentru ce, Doamne, lepezi sufletul meu și întorci fața Ta de la mine? Sărac sunt eu și în osteneli din tinerețile mele; înălțat am fost, dar m-am smerit și m-am mâhnit.
-
 Peste mine au trecut mâniile Tale și înfricoșările Tale m-au tulburat. Înconjuratu-m-au ca apa toată ziua și m-au cuprins deodată. Depărtat-ai de la mine pe prieteni și pe cunoscuții mei, și cei de aproape ai mei s-au făcut nevăzuți.
 
 Doamne, Dumnezeul mântuirii mele, ziua am strigat și noaptea înaintea Ta. Să intre înaintea Ta rugăciunea mea; pleacă urechea Ta spre ruga mea.
@@ -303,13 +296,9 @@ Doamne, Dumnezeul mântuirii mele, ziua am strigat și noaptea înaintea Ta. Să
 [TEXT]
 
 Binecuvintează, suflete al meu, pe Domnul și toate cele dinlăuntrul meu, numele cel sfânt al Lui. Binecuvintează, suflete al meu, pe Domnul și nu uita toate răsplătirile Lui. Pe Cel ce curățește toate fărădelegile tale; pe Cel ce vindecă toate bolile tale. Pe Cel ce izbăvește din stricăciune viața ta; pe Cel ce te încununează cu milă și cu îndurări. Pe Cel ce umple de bunătăți dorirea ta; înnoi-se-vor ca ale vulturului tinerețile tale.
-
 Cel ce face milostenie, Domnul, și judecată tuturor celor ce li se face strâmbătate. Cunoscute a făcut căile Sale lui Moise, fiilor lui Israel voile Sale. Îndurat și milostiv este Domnul, îndelung-răbdător și mult-milostiv. Nu până în sfârșit Se va iuți, nici în veac Se va mânia. Nu după păcatele noastre a făcut nouă, nici după fărădelegile noastre a răsplătit nouă, că după înălțimea cerului de la pământ a întărit Domnul mila Sa spre cei ce se tem de Dânsul.
-
 Pe cât sunt de departe răsăriturile de la apusuri, depărtat-a de la noi fărădelegile noastre. În ce chip miluiește tatăl pe fii, așa a miluit Domnul pe cei ce se tem de Dânsul. Că El a cunoscut zidirea noastră; adusu-Și-a aminte că țărână suntem. Omul, ca iarba zilele lui, ca floarea câmpului, așa va înflori. Că duh a trecut printr-însul și nu va fi și nu-și va mai cunoaște încă locul său.
-
 Iar mila Domnului din veac și până în veac spre cei ce se tem de Dânsul; și dreptatea Lui spre fiii fiilor, spre cei ce păzesc așezământul de lege al Lui și își aduc aminte de poruncile Lui, ca să le facă pe ele. Domnul în cer a gătit scaunul Său și împărăția Lui peste toți stăpânește. Binecuvântați pe Domnul, toți îngerii Lui, cei puternici la vârtute, care faceți cuvântul Lui și auziți glasul cuvintelor Lui. Binecuvântați pe Domnul, toate puterile Lui, slugile Lui, care faceți voia Lui.
-
 Binecuvântați pe Domnul, toate lucrurile Lui; în tot locul stăpânirii Lui, binecuvintează, suflete al meu, pe Domnul.
 
 În tot locul stăpânirii Lui, binecuvintează, suflete al meu, pe Domnul.
@@ -319,9 +308,7 @@ Binecuvântați pe Domnul, toate lucrurile Lui; în tot locul stăpânirii Lui, 
 [TEXT]
 
 Doamne, auzi rugăciunea mea, ascultă cererea mea, întru credincioșia Ta; auzi-mă, întru dreptatea Ta. Să nu intri la judecată cu robul Tău, că nimeni din cei vii nu-i drept înaintea Ta. Vrăjmașul prigonește sufletul meu și viața mea o calcă în picioare; făcutu-m-a să locuiesc în întuneric, ca morții cei din veacuri. S-a mâhnit în mine duhul meu, în mine inima mea s-a tulburat. Adusu-mi-am aminte de zilele cele de demult; cugetat-am la toate lucrurile Tale, la faptele mâinilor Tale m-am gândit.
-
 Întins-am către Tine mâinile mele; sufletul meu, ca un pământ însetoșat. Degrabă auzi-mă, Doamne, că a slăbit duhul meu. Nu-Ți întoarce fața Ta de la mine, ca să nu mă asemăn celor ce se coboară în mormânt. Fă să aud dimineața mila Ta, că la Tine mi-e nădejdea. Arată-mi calea pe care voi merge, că la Tine am ridicat sufletul meu. Scoate-mă de la vrăjmașii mei, Doamne! La Tine am scăpat. Învață-mă să fac voia Ta, că Tu ești Dumnezeul meu. Duhul Tău cel bun mă va povățui la pământul dreptății.
-
 Pentru numele Tău, Doamne, dăruiește-mi viață. Întru dreptatea Ta, scoate din necaz sufletul meu. Și întru mila Ta vei sfârși pe vrăjmașii mei și vei pierde pe toți cei ce necăjesc sufletul meu, că eu sunt robul Tău.
 
 Auzi-mă, Doamne, întru dreptatea Ta, și să nu intri la judecată cu robul Tău. (de 2 ori)
@@ -356,7 +343,7 @@ Pentru pacea a toată lumea, pentru bunăstarea sfintelor lui Dumnezeu Biserici 
 
 Pentru sfântă biserica aceasta și pentru cei ce cu credință, cu evlavie și cu frică de Dumnezeu intră într-însa, Domnului să ne rugăm.
 
-Pentru Preafericitul Părintele nostru [N], Patriarhul Bisericii Ortodoxe Române, pentru Înaltpreasfințitul Arhiepiscopul și Mitropolitul nostru [N], pentru Preasfințitul nostru Episcop [N], pentru cinstita preoțime și cea întru Hristos diaconime, pentru tot clerul și poporul, Domnului să ne rugăm.
+Pentru Înaltpreasfințitul Arhiepiscopul și Mitropolitul nostru [N], pentru Preasfințitul nostru Episcop [N], pentru cinstita preoțime și cea întru Hristos diaconime, pentru tot clerul și poporul, Domnului să ne rugăm.
 
 Pentru binecredinciosul popor român de pretutindeni, pentru cârmuitorii țării noastre, pentru mai-marii orașelor și ai satelor și pentru iubitoarea de Hristos oaste, Domnului să ne rugăm.
 
@@ -408,6 +395,14 @@ Amin.
 
 Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine întru numele Domnului.
 
+Stih: Mărturisiți-vă Domnului, că este bun, că în veac este mila Lui.
+
+Stih: Înconjurând m-au înconjurat și întru numele Domnului i-am înfrânt pe ei.
+
+Stih: Nu voi muri, ci voi fi viu și voi povesti lucrurile Domnului.
+
+Stih: Piatra pe care n-au socotit-o ziditorii, aceasta s-a făcut în capul unghiului; de la Domnul s-a făcut aceasta și este minunată întru ochii noștri.
+
 ## Troparele și catismele
 
 [TIPIC A1]
@@ -429,10 +424,6 @@ Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine înt
 [RUBRICA]
 
 Duminica se citesc Catismele 2 și 3. După fiecare urmează ectenia mică, sedelnele Învierii din Octoih, cu stihurile și bogorodicinele lor, apoi citirea prescrisă.
-
-[DE VERIFICAT]
-
-Psalmii Catismelor 2 și 3 trebuie introduși integral din Psaltire.
 
 ### Ectenia mică
 
@@ -490,15 +481,7 @@ Că bun și iubitor de oameni Dumnezeu ești și Ție slavă înălțăm, Tatăl
 
 În Duminica fără sărbătoare care cere Polieleu se pune Catisma 17 sau Polieleul duminical, după perioada anului. Când sfântul, hramul ori praznicul are Polieleu, se cântă Polieleul și materialul propriu al sărbătorii, inclusiv mărimurile, numai potrivit rubricii respective.
 
-[DE VERIFICAT]
-
-Psalmul 118 și Psalmii 134–135 trebuie introduși integral. Limitele calendaristice exacte ale Polieleului sezonier rămân de confruntat cu ediția tipărită.
-
 ## Binecuvântările Învierii
-
-[RUBRICA]
-
-La fiecare tropar se cântă mai întâi:
 
 [TEXT]
 
@@ -584,135 +567,9 @@ Strana:
 
 Amin.
 
-## Canoanele
-
-[RUBRICA]
-
-Cântările biblice se folosesc în forma festivă a Duminicii. Canoanele se iau din Octoih și Minei în ordinea și repartizarea cazului. Catavasiile se aleg după data calendaristică și rubrica nominală.
-
-[TIPIC A1]
-
-→ OCTOIH: Învierea, cu irmosul, pe 4; Crucea-Învierea pe 3; Născătoarea de Dumnezeu pe 3. Canonul sfântului simplu nu se pune.
-
-[TIPIC A2]
-
-→ OCTOIH: Învierea, cu irmosul, pe 4; Crucea-Învierea pe 4; Născătoarea pe 4. MINEI: sfântul pe 6.
-
-[TIPIC B1]
-
-[DE VERIFICAT — CANOANE B1]
-
-Repartizarea exactă se verifică nominal; nu se deduce din A2 sau B2.
-
-[TIPIC B2]
-
-→ Cu un canon al sfântului: Învierea 4 + Crucea-Învierea 4 + Născătoarea 4 + sfântul 6.
-
-→ Cu două canoane ale sfântului: Învierea 4 + Născătoarea 4 + cele două canoane ale sfântului împreună pe 8; Crucea-Învierea se omite.
-
-[TIPIC C1] [TIPIC C2]
-
-→ Învierea, cu irmosul, pe 4 + Născătoarea pe 2 + sfântul sau hramul pe 8; Crucea-Învierea se omite.
-
-[TIPIC C3] [TIPIC D1] [TIPIC D2] [TIPIC D3] [TIPIC E1] [TIPIC E2]
-
-→ Se urmează numai rubrica nominală documentată.
-
-[RUBRICA]
-
-După Cântarea a 3-a: ectenia mică; apoi OCTOIH/MINEI — condacul, icosul, sedealna și citirea în ordinea cazului.
-
-[TEXT]
-
-Ecfonis: Că Tu ești Dumnezeul nostru și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
-
-[RUBRICA]
-
-După Cântarea a 6-a: ectenia mică; apoi OCTOIH/MINEI — condacul și icosul prevăzute de caz; Sinaxarul zilei.
-
-[TEXT]
-
-Ecfonis: Că Tu ești Împăratul păcii și Mântuitorul sufletelor noastre și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
-
-[TEXT]
-
-După Cântarea a 8-a:
-
-Să lăudăm, bine să cuvântăm și să ne închinăm Domnului, cântându-I și preaînălțându-L pe Dânsul întru toți vecii.
-
-## Cântarea Născătoarei de Dumnezeu
-
-[TEXT]
-
-Preotul sau diaconul:
-
-Pe Născătoarea de Dumnezeu și Maica Luminii, întru cântări cinstind-o, să o mărim.
-
-[RUBRICA]
-
-După fiecare stih se cântă „Ceea ce ești mai cinstită…”.
-
-[TEXT]
-
-Mărește, suflete al meu, pe Domnul și s-a bucurat duhul meu de Dumnezeu, Mântuitorul meu.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-Că a căutat spre smerenia roabei Sale, că iată, de acum mă vor ferici toate neamurile.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-Că mi-a făcut mie mărire Cel Puternic și sfânt numele Lui, și mila Lui în neam și în neam spre cei ce se tem de Dânsul.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-Făcut-a tărie cu brațul Său Domnul, risipit-a pe cei mândri cu cugetul inimii lor.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-Pogorât-a pe cei puternici de pe scaune și a ridicat pe cei smeriți; pe cei flămânzi i-a umplut de bunătăți, iar pe cei bogați i-a scos afară deșerți.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-Luat-a pe Israel, sluga Sa, ca să pomenească mila, precum a grăit către părinții noștri, lui Avraam și seminției lui până în veac.
-
-Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-[RUBRICA]
-
-La praznicele cu rânduială proprie se urmează rubrica nominală a Cântării a 9-a. Duminica, odovania nu înlocuiește automat cântarea de mai sus cu pripelele praznicului.
-
-[TEXT]
-
-Cuvine-se cu adevărat să te fericim pe tine, Născătoare de Dumnezeu, cea pururea fericită și preanevinovată și Maica Dumnezeului nostru. Ceea ce ești mai cinstită decât Heruvimii și mai mărită, fără de asemănare, decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-
-## După Cântarea a 9-a și luminândele
-
-[RUBRICA]
-
-După ectenia mică:
-
-[TEXT]
-
-Ecfonis: Că pe Tine Te laudă toate Puterile cerești și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
-
-Sfânt este Domnul Dumnezeul nostru. (de 2 ori)
-
-Sfânt este Domnul Dumnezeul nostru. Înălțați pe Domnul Dumnezeul nostru și vă închinați așternutului picioarelor Lui, că sfânt este.
-
-[TIPIC A1] [TIPIC A2] [TIPIC B1] [TIPIC B2] [TIPIC C1] [TIPIC C2]
-
-→ OCTOIH: luminânda Învierii corespunzătoare Evangheliei de rând; MINEI: la „Slavă…”, luminânda sfântului, dacă are; OCTOIH: la „Și acum…”, luminânda Născătoarei Învierii.
-
-[TIPIC C3] [TIPIC D1] [TIPIC D2] [TIPIC D3] [TIPIC E1] [TIPIC E2]
-
-→ Se urmează rubrica nominală. Luminânda Învierii nu se alege după numărul glasului.
-
 Toată suflarea să laude pe Domnul. (de 2 ori)
 
-Stih: Lăudați pe Dumnezeu întru sfinții Lui; lăudați-L pe El întru tăria puterii Lui.
-
-Toată suflarea să laude pe Domnul.
+Toată suflarea și toată făptura să laude pe Domnul.
 
 [TEXT]
 
@@ -730,7 +587,7 @@ Doamne miluiește. (de 3 ori)
 
 Preotul sau diaconul:
 
-Înțelepciune, drepți, să ascultăm Sfânta Evanghelie.
+Cu înțelepciune, drepți, să ascultăm Sfânta Evanghelie.
 
 [TEXT]
 
@@ -774,20 +631,21 @@ Slavă Ție, Doamne, slavă Ție.
 
 ## După Evanghelie
 
+Preotul:
+
 [TEXT]
 
 Învierea lui Hristos văzând, să ne închinăm Sfântului Domnului Iisus, Unuia Celui fără de păcat. Crucii Tale ne închinăm, Hristoase, și Sfântă Învierea Ta o lăudăm și o slăvim; că Tu ești Dumnezeul nostru, afară de Tine pe altul nu știm, numele Tău numim. Veniți toți credincioșii să ne închinăm Sfintei Învierii lui Hristos; că iată a venit prin Cruce bucurie la toată lumea. Totdeauna binecuvântând pe Domnul, lăudăm Învierea Lui; că răstignire răbdând pentru noi, cu moartea pe moarte a călcat.
 
 ### Psalmul 50
 
+Strana:
+
 [TEXT]
 
 Miluiește-mă, Dumnezeule, după mare mila Ta și după mulțimea îndurărilor Tale, șterge fărădelegea mea. Mai vârtos mă spală de fărădelegea mea și de păcatul meu mă curățește. Că fărădelegea mea eu o cunosc și păcatul meu înaintea mea este pururea. Ție Unuia am greșit și rău înaintea Ta am făcut, așa încât drept ești Tu întru cuvintele Tale și biruitor când vei judeca Tu. Că iată, întru fărădelegi m-am zămislit și în păcate m-a născut maica mea.
-
 Că iată, adevărul ai iubit; cele nearătate și cele ascunse ale înțelepciunii Tale mi-ai arătat mie. Stropi-mă-vei cu isop și mă voi curăți; spăla-mă-vei și mai vârtos decât zăpada mă voi albi. Auzului meu vei da bucurie și veselie; bucura-se-vor oasele mele cele smerite. Întoarce fața Ta de către păcatele mele și toate fărădelegile mele șterge-le. Inimă curată zidește întru mine, Dumnezeule, și duh drept înnoiește întru cele dinlăuntru ale mele.
-
 Nu mă lepăda de la fața Ta și Duhul Tău cel Sfânt nu-L lua de la mine. Dă-mi mie bucuria mântuirii Tale și cu duh stăpânitor mă întărește. Învăța-voi pe cei fără de lege căile Tale și cei necredincioși la Tine se vor întoarce. Izbăvește-mă de vărsarea de sânge, Dumnezeule, Dumnezeul mântuirii mele; bucura-se-va limba mea de dreptatea Ta. Doamne, buzele mele vei deschide și gura mea va vesti lauda Ta. Că de ai fi voit jertfă, Ți-aș fi dat; arderile de tot nu le vei binevoi.
-
 Jertfa lui Dumnezeu: duhul umilit; inima înfrântă și smerită Dumnezeu nu o va urgisi. Fă bine, Doamne, întru bunăvoirea Ta, Sionului, și să se zidească zidurile Ierusalimului. Atunci vei binevoi jertfa dreptății, prinosul și arderile de tot; atunci vor pune pe altarul Tău viței.
 
 [TIPIC A1] [TIPIC A2] [TIPIC B1] [TIPIC B2] [TIPIC C1] [TIPIC C2]
@@ -810,22 +668,149 @@ Miluiește-mă, Dumnezeule, după mare mila Ta și după mulțimea îndurărilor
 
 Pentru C3–E2 se urmează cântările nominale de după Psalmul 50. Urmează rugăciunea „Mântuiește, Dumnezeule, poporul Tău…”, răspunsul „Doamne miluiește” de 12 ori și ecfonisul „Cu mila și cu îndurările…”.
 
-[DE VERIFICAT]
+[TEXT]
 
-Textul integral al rugăciunii de mijlocire trebuie confruntat cu ediția liturgică folosită și introdus aici.
+Preotul sau diaconul:
+
+Mântuiește, Dumnezeule, poporul Tău și binecuvintează moștenirea Ta; cercetează lumea Ta cu milă și cu îndurări; înalță fruntea dreptcredincioșilor creștini și trimite peste noi milele Tale cele bogate; pentru rugăciunile Preacuratei Stăpânei noastre, de Dumnezeu Născătoarei și pururea Fecioarei Maria; cu puterea cinstitei și de viață făcătoarei Cruci; cu ocrotirile cinstitelor, cereștilor netrupești Puteri; pentru rugăciunile cinstitului, măritului proroc, Înaintemergătorului și Botezătorului Ioan; ale Sfinților, măriților și întru tot lăudaților Apostoli; ale Sfinților [N], ocrotitorul sfântului locașului și [N], a cărui pomenire o săvârșim; ale sfinților și drepților dumnezeiești Părinți Ioachim și Ana și pentru ale tuturor sfinților; rugămu-Te, mult-Milostive Doamne, auzi-ne pe noi, păcătoșii, care ne rugăm Ție, și ne miluiește pe noi.
+
+[TEXT]
+
+Strana:
+
+Doamne miluiește. (de 12 ori)
+
+[TEXT]
+
+Preot:
+
+Cu mila și cu îndurările și cu iubirea de oameni a Unuia-Născut Fiului Tău, cu Care binecuvântat ești, împreună cu Preasfântul și bunul și de viață făcătorul Tău Duh, acum și pururea și în vecii vecilor.
+
+[TEXT]
+
+Strana:
+
+Amin.
 
 [RUBRICA]
 
-În ordinea slujbei urmează secțiunile „Canoanele”, „Cântarea Născătoarei de Dumnezeu” și „După Cântarea a 9-a și luminândele”, redactate mai sus. După luminânde se continuă cu Laudele.
+Urmează canoanele cu catavasiile perioadei.
+
+## Canoanele
+
+[TIPIC A1]
+
+→ OCTOIH: Canonul Învierii, cu irmosul, pe 4; Canonul Crucii-Învierii pe 3; Canonul Născătoarei de Dumnezeu pe 3. Canonul sfântului simplu nu se pune.
+
+[TIPIC A2]
+
+→ OCTOIH: Învierea, cu irmosul, pe 4; Crucea-Învierea pe 4; Născătoarea pe 4. MINEI: sfântul pe 6.
+
+[TIPIC B1]
+
+[DE VERIFICAT — CANOANE B1]
+
+Repartizarea exactă se verifică nominal; nu se deduce din A2 sau B2.
+
+[TIPIC B2]
+
+→ Cu un canon al sfântului: Învierea 4 + Crucea-Învierea 4 + Născătoarea 4 + sfântul 6.
+
+→ Cu două canoane ale sfântului: Învierea 4 + Născătoarea 4 + cele două canoane ale sfântului împreună pe 8; Crucea-Învierea se omite.
+
+[TIPIC C1] [TIPIC C2]
+
+→ Învierea, cu irmosul, pe 4 + Născătoarea pe 2 + sfântul sau hramul pe 8; Crucea-Învierea se omite.
+
+[TIPIC C3] [TIPIC D1] [TIPIC D2] [TIPIC D3] [TIPIC E1] [TIPIC E2]
+
+→ Se urmează numai rubrica nominală documentată. Catavasiile se aleg după dată și după rubrica nominală.
+
+### După Cântarea a 3-a
+
+[RUBRICA]
+
+Ectenia mică, apoi MINEI: condacul, icosul, sedealna și citirea în ordinea cazului.
+
+[TEXT]
+
+Ecfonis: Că Tu ești Dumnezeul nostru și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
+
+### După Cântarea a 6-a
+
+[RUBRICA]
+
+Ectenia mică, apoi OCTOIH: condacul și icosul prevăzute de caz; după acestea, Sinaxarul zilei.
+
+[TEXT]
+
+Ecfonis: Că Tu ești Împăratul păcii și Mântuitorul sufletelor noastre și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
+
+### După Cântarea a 8-a
+
+[TEXT]
+
+Să lăudăm, bine să cuvântăm și să ne închinăm Domnului, cântându-I și preaînălțându-L pe Dânsul întru toți vecii.
+
+## Catavasia a 8-a
+
+[TEXT]
+
+Preotul sau diaconul:
+
+Pe Născătoarea de Dumnezeu și Maica Luminii, întru cântări cinstind-o, să o mărim.
+
+[RUBRICA]
+
+După fiecare stih se cântă: 
+  Ceea ce ești mai cinstită decât Heruvimii și mai slăvită fără de asemănare decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe Tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.  
+
+[TEXT]
+
+Mărește, suflete al meu, pe Domnul și s-a bucurat duhul meu de Dumnezeu, Mântuitorul meu.
+
+Că a căutat spre smerenia roabei Sale, că, iată, de acum mă vor ferici toate neamurile.
+
+Că mi-a făcut mie mărire Cel Puternic și sfânt este numele Lui și mila Lui în neam și în neam spre cei ce se tem de El.
+
+Făcut-a tărie cu brațul Său Domnul, risipit-a pe cei mândri în cugetul inimii lor.
+
+Pogorât-a pe cei puternici de pe scaune și a ridicat pe cei smeriți; pe cei flămânzi i-a umplut de bunătăți, iar pe cei bogați i-a scos afară deșerți.
+
+A sprijinit pe Israel, sluga Sa, ca să pomenească mila, precum a grăit către părinții noștri, lui Avraam și seminției lui până în veac.
+
+[RUBRICA]
+
+La praznicele cu rânduială proprie se urmează rubrica nominală. Duminica, odovania nu înlocuiește automat cântarea de mai sus cu pripelele praznicului.
+
+## După Cântarea a 9-a și luminândele
+
+[RUBRICA]
+
+După ectenia mică:
+
+[TEXT]
+
+Ecfonis: Că pe Tine Te laudă toate Puterile cerești și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
+
+Sfânt este Domnul Dumnezeul nostru. (de 2 ori)
+
+Sfânt este Domnul Dumnezeul nostru. Înălțați pe Domnul Dumnezeul nostru și vă închinați așternutului picioarelor Lui, că sfânt este.
+
+[TIPIC A1] [TIPIC A2] [TIPIC B1] [TIPIC B2] [TIPIC C1] [TIPIC C2]
+
+→ OCTOIH: luminânda Învierii corespunzătoare Evangheliei de rând; MINEI: la „Slavă…”, luminânda sfântului, dacă are; OCTOIH: la „Și acum…”, luminânda Născătoarei Învierii.
+
+[TIPIC C3] [TIPIC D1] [TIPIC D2] [TIPIC D3] [TIPIC E1] [TIPIC E2]
+
+→ Se urmează rubrica nominală. Luminânda Învierii nu se alege după numărul glasului.
 
 ## Laudele
 
 [TEXT]
 
-Toată suflarea să laude pe Domnul. Lăudați pe Domnul din ceruri; Ție se cuvine cântare, Dumnezeule.
-
+Toată suflarea să laude pe Domnul.
 Lăudați pe Domnul din ceruri, lăudați-L pe El întru cele înalte; Ție se cuvine cântare, Dumnezeule.
-
 Lăudați-L pe El toți îngerii Lui. Lăudați-L pe El toate puterile Lui; Ție se cuvine cântare, Dumnezeule.
 
 ### Psalmul 148
@@ -833,9 +818,7 @@ Lăudați-L pe El toți îngerii Lui. Lăudați-L pe El toate puterile Lui; Ție
 [TEXT]
 
 Lăudați pe Domnul din ceruri, lăudați-L pe El întru cele înalte. Lăudați-L pe El toți îngerii Lui, lăudați-L pe El toate puterile Lui. Lăudați-L pe El soarele și luna, lăudați-L pe El toate stelele și lumina. Lăudați-L pe El cerurile cerurilor și apa cea mai presus de ceruri. Să laude numele Domnului, că El a zis și s-au făcut, El a poruncit și s-au zidit. Pusu-le-a pe ele în veac și în veacul veacului. Poruncă a pus și nu o vor trece.
-
 Lăudați pe El toți cei de pe pământ; balaurii și toate adâncurile; focul, grindina, zăpada, gheața, viforul, toate îndepliniți cuvântul Lui; munții și toate dealurile, pomii cei roditori și toți cedrii; fiarele și toate animalele cele ce se târăsc și păsările cele zburătoare. Împărații pământului și toate popoarele, căpeteniile și toți judecătorii pământului. Tinerii și fecioarele, bătrânii cu tinerii să laude numele Domnului, că numai numele Lui s-a înălțat. Lauda Lui pe pământ și în cer.
-
 Și va înălța puterea poporului Lui. Cântare tuturor cuvioșilor Lui, fiilor lui Israel, poporului ce se apropie de El.
 
 ### Psalmul 149
@@ -916,13 +899,15 @@ Slavă Ție, Celui ce ne-ai arătat nouă lumina.
 
 Strana:
 
-Slavă întru cei de sus lui Dumnezeu și pe pământ pace, întru oameni bunăvoire.
+Slavă Ție, Celui ce ne-ai arătat lumina. Slavă întru cei de sus lui Dumnezeu și pe pământ pace, întru oameni bunăvoire.
 
 Lăudămu-Te, bine Te cuvântăm, închinămu-ne Ție, slăvimu-Te, mulțumim Ție pentru slava Ta cea mare.
 
 Doamne, Împărate ceresc, Dumnezeule, Părinte Atotțiitorule; Doamne, Fiule Unule-Născut, Iisuse Hristoase și Duhule Sfinte.
 
-Doamne Dumnezeule, Mielușelul lui Dumnezeu, Fiul Tatălui, Cel ce ridici păcatul lumii, miluiește-ne pe noi; Cel ce ridici păcatele lumii, primește rugăciunea noastră; Cel ce șezi de-a dreapta Tatălui, miluiește-ne pe noi.
+Doamne Dumnezeule, Mielușelul lui Dumnezeu, Fiul Tatălui, Cel ce ridici păcatul lumii, miluiește-ne pe noi; Cel ce ridici păcatele lumii. 
+
+Primește rugăciunea noastră; Cel ce șezi de-a dreapta Tatălui, și ne miluiește pe noi.
 
 Că Tu ești Unul Sfânt, Tu ești Unul Domn, Iisus Hristos, întru slava lui Dumnezeu Tatăl. Amin.
 
@@ -950,17 +935,15 @@ Tinde mila Ta celor ce Te cunosc pe Tine.
 
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi. (de 3 ori)
 
-Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
+Slavă Tatălui și Fiului și Sfântului Duh.
+
+Și acum și pururea și în vecii vecilor. Amin.
 
 Sfinte fără de moarte, miluiește-ne pe noi.
 
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi.
 
 ## Troparul final al Învierii
-
-[DE VERIFICAT]
-
-Ceaslovul digital indică primul tropar pentru glasurile săptămânale 1–4 și al doilea pentru glasurile 5–8; repartizarea se confruntă cu ediția tipărită. Se cântă un singur tropar și nu se adaugă troparul sfântului.
 
 [TEXT]
 
@@ -976,7 +959,49 @@ Pentru glasurile 5–8:
 
 [RUBRICA]
 
-Se rostește ectenia întreită „Miluiește-ne pe noi, Dumnezeule…”, integral cum este scrisă la începutul Utreniei, cu cererile pentru ierarhi, popor, ctitori, adormiți, binefăcători și cei ce se ostenesc în sfântul locaș. Urmează ectenia cererilor:
+Se rostește ectenia întreită:
+
+[TEXT]
+
+Preotul sau diaconul:
+
+Miluiește-ne pe noi, Dumnezeule, după mare mila Ta, rugămu-ne Ție, auzi-ne și ne miluiește.
+
+[TEXT]
+
+Strana:
+
+Doamne miluiește. (de 3 ori după fiecare cerere)
+
+[TEXT]
+
+Preotul sau diaconul:
+
+Încă ne rugăm pentru Înaltpreasfințitul Arhiepiscopul și Mitropolitul nostru [N], pentru Preasfințitul nostru Episcop [N] și pentru toți frații noștri cei întru Hristos.
+
+Încă ne rugăm pentru binecredinciosul popor român de pretutindeni, pentru cârmuitorii țării noastre, pentru mai-marii orașelor și ai satelor și pentru iubitoarea de Hristos oaste, pentru sănătatea și mântuirea lor.
+
+Încă ne rugăm pentru mila, viața, pacea, sănătatea, mântuirea, cercetarea, lăsarea și iertarea păcatelor robilor lui Dumnezeu, enoriași, ctitori și binefăcători ai sfântului locașului acestuia.
+
+Încă ne rugăm pentru fericiții și pururea pomeniții ctitori ai sfântului locașului acestuia și pentru toți cei mai înainte adormiți părinți și frați ai noștri dreptcredincioși creștini, care odihnesc aici și pretutindeni.
+
+Încă ne rugăm pentru cei ce aduc daruri și fac bine în sfântă și întru tot cinstită biserica aceasta, pentru cei ce se ostenesc, pentru cei ce cântă și pentru poporul ce stă înainte și așteaptă de la Tine mare și bogată milă.
+
+[TEXT]
+
+Preot:
+
+Că milostiv și iubitor de oameni Dumnezeu ești și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor.
+
+[TEXT]
+
+Strana:
+
+Amin.
+
+[RUBRICA]
+
+Urmează ectenia cererilor:
 
 [TEXT]
 
@@ -1135,47 +1160,3 @@ La Întâmpinarea Domnului căzută Duminica, înainte de perioada Triodului, st
 [RUBRICA]
 
 Aici se încheie Utrenia. Urmează Ceasul întâi, redactat separat în `carte/06-ceasul1.md`.
-
-[RUBRICA]
-
-Pentru C3–E2 se urmează rubrica nominală a cântărilor de după Psalmul 50.
-
-[TEXT]
-
-Preotul sau diaconul:
-
-Mântuiește, Dumnezeule, poporul Tău și binecuvintează moștenirea Ta; cercetează lumea Ta cu milă și cu îndurări; înalță fruntea dreptcredincioșilor creștini și trimite peste noi milele Tale cele bogate; pentru rugăciunile Preacuratei Stăpânei noastre, de Dumnezeu Născătoarei și pururea Fecioarei Maria; cu puterea cinstitei și de viață făcătoarei Cruci; cu ocrotirile cinstitelor, cereștilor netrupești Puteri; pentru rugăciunile cinstitului, măritului proroc, Înaintemergătorului și Botezătorului Ioan; ale Sfinților, măriților și întru tot lăudaților Apostoli; ale Sfinților [N], ocrotitorul sfântului locașului și [N], a cărui pomenire o săvârșim; ale sfinților și drepților dumnezeiești Părinți Ioachim și Ana și pentru ale tuturor sfinților; rugămu-Te, mult-Milostive Doamne, auzi-ne pe noi, păcătoșii, care ne rugăm Ție, și ne miluiește pe noi.
-
-[TEXT]
-
-Strana:
-
-Doamne miluiește. (de 12 ori)
-
-[TEXT]
-
-Preot:
-
-Cu mila și cu îndurările și cu iubirea de oameni a Unuia-Născut Fiului Tău, cu Care binecuvântat ești, împreună cu Preasfântul și bunul și de viață făcătorul Tău Duh, acum și pururea și în vecii vecilor.
-
-[TEXT]
-
-Strana:
-
-Amin.
-
-Stih: Mărturisiți-vă Domnului, că este bun, că în veac este mila Lui.
-
-Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine întru numele Domnului.
-
-Stih: Înconjurând m-au înconjurat și întru numele Domnului i-am înfrânt pe ei.
-
-Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine întru numele Domnului.
-
-Stih: Nu voi muri, ci voi fi viu și voi povesti lucrurile Domnului.
-
-Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine întru numele Domnului.
-
-Stih: Piatra pe care n-au socotit-o ziditorii, aceasta s-a făcut în capul unghiului; de la Domnul s-a făcut aceasta și este minunată întru ochii noștri.
-
-Dumnezeu este Domnul și S-a arătat nouă; bine este cuvântat Cel ce vine întru numele Domnului.
