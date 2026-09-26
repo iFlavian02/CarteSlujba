@@ -283,18 +283,151 @@ Iisuse al meu, pe desfrânata și pe desfrânatul și pe Manase și pe vameșul 
 
 Fecioară preacurată, ceea ce ai născut pe Iisus, Hristosul meu, tu, care singură ești neîntinată, curățește-mă acum cu isopul rugăciunilor tale pe mine, cel întinat.
 
+
+### Cântarea a 7-a
+
+[TEXT]
+
+Cei trei tineri au călcat porunca potrivnică lui Dumnezeu de a se închina chipului de aur din câmpul Deira și, fiind aruncați în mijlocul focului, răcorindu-se au cântat: Bine ești cuvântat, Dumnezeul părinților noștri.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+Hristoase Iisuse, nimeni n-a greșit pe pământ din veac, o, Iisuse al meu, precum am greșit eu, ticălosul și stricatul. Pentru aceasta, Iisuse al meu, strig către Tine: Milostivește-Te spre mine, cel ce cânt: Bine ești cuvântat, Dumnezeul părinților noștri.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+Hristoase Iisuse, străbate-mă cu frica Ta, strig către Tine, o, Iisuse al meu, și mă îndreptează acum la limanul cel liniștit, ca, mântuindu-mă, Iisuse al meu îndurate, să-Ți cânt Ție, strigând: Bine ești cuvântat, Dumnezeul părinților noștri.
+
+Slavă Tatălui și Fiului și Sfântului Duh.
+
+Hristoase Iisuse, de mii de ori eu, ticălosul, o, Iisuse al meu, am făgăduit Ție a mea pocăință, dar am mințit, pătimașul; pentru aceasta, Iisuse al meu, strig către Tine: Luminează sufletul meu, care petrece fără de înțelegere, Hristoase, Dumnezeule al părinților noștri.
+
+Și acum și pururea și în vecii vecilor. Amin.
+
+Ceea ce ai născut pe Hristos Iisus în chip minunat și mai presus de fire, pe Acela roagă-L, ceea ce ești cu totul fără de prihană, să ierte toate păcatele mele cele mai presus de fire, Fecioară, ca, mântuindu-mă, să strig: Bine ești cuvântată, ceea ce ai născut pe Dumnezeu cu trup.
+
+### Cântarea a 8-a
+
+[TEXT]
+
+Pe Dumnezeu, Cel ce S-a pogorât în cuptorul cel cu foc la tinerii cei de demult și văpaia în răcoreală a prefăcut-o, lăudați-L, făpturi, ca pe Domnul și-L preaînălțați întru toți vecii.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+Pe Tine, Iisuse al meu, Te rog: precum ai izbăvit pe desfrânata, Iisuse al meu, de multe greșeli, așa și pe mine, milostive Hristoase al meu, izbăvește-mă și curățește sufletul meu cel întinat, Iisuse al meu.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+La dulcețile celor necuvântătoare m-am plecat, Iisuse, și necuvântător m-am făcut; și lor, o, Iisuse al meu, Mântuitorule, cu adevărat m-am asemănat eu, ticălosul, ca un pătimaș; pentru aceasta, Iisuse, izbăvește-mă de toată josnicia.
+
+Binecuvântăm pe Tatăl și pe Fiul și pe Sfântul Duh, Domnul.
+
+Am căzut, Iisuse, între tâlharii cei stricător de suflet și sunt dezbrăcat acum de haina cea țesută de Dumnezeu, Iisuse al meu, și zac plin de răni grele; toarnă peste ele untdelemn și vin, Hristoase al meu.
+
+Și acum și pururea și în vecii vecilor. Amin.
+
+Ceea ce ai purtat, mai presus de cuvânt, pe Iisus Hristos, Dumnezeul meu, Născătoare de Dumnezeu Marie, pe Acela roagă-L pururea să mântuiască de nevoi pe robii și cântăreții tăi, Fecioară, ceea ce nu știi de bărbat.
+
+### Cântarea a 9-a
+
+[TEXT]
+
+Pe Dumnezeu Cuvântul, Care, cu înțelepciune mai presus de cuvânt, de la Dumnezeu a venit ca să înnoiască pe Adam, cel căzut cumplit în stricăciune din pricina mâncării, pe Cel ce din Sfânta Fecioară în chip de negrăit S-a întrupat pentru noi, credincioșii, cu un gând în cântări să-L slăvim.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+Pe Manase, Iisuse al meu, pe vameșul, pe desfrânata, pe desfrânatul, milostive Iisuse, și pe tâlharul am întrecut, Iisuse al meu, cu fapte de rușine și de ocară, Iisuse. Ci Tu, Iisuse al meu, întâmpinându-mă, mântuiește-mă.
+
+Stih: Iisuse preadulce, Fiul lui Dumnezeu, miluiește-mă.
+
+Pe toți cei ce au greșit de la Adam, Iisuse al meu, mai înainte de Lege și în Lege, Iisuse, și după Lege și în legea harului, Iisuse al meu, i-am covârșit cu patimile eu, ticălosul, ca un pătimaș; ci Tu, Iisuse al meu, cu judecățile Tale, mântuiește-mă.
+
+Slavă Tatălui și Fiului și Sfântului Duh.
+
+Să nu fiu osebit, Iisuse al meu, de slava Ta cea negrăită; să nu dobândesc, Iisuse, șederea cea de-a stânga, Preadulce Iisuse; ci Tu, împărtășindu-mă oilor Tale celor de-a dreapta, Hristoase Iisuse al meu, fă-mi odihnă, ca un Îndurat.
+
+Și acum și pururea și în vecii vecilor. Amin.
+
+Pe Iisus, Născătoare de Dumnezeu, pe Care L-ai purtat, Marie, Fecioară curată, ceea ce singură nu știi de bărbat, roagă-L, ca pe Fiul tău și Făcătorul, să izbăvească pe cel ce aleargă la tine de ispite și de nevoi și de focul ce va să fie.
+
+
+Iisuse, Dătătorul înțelepciunii și al gândului, Îndreptătorul celor săraci, Folositorul celor lipsiți, Doctorul celor bolnavi, tămăduiește și luminează, Iisuse, inima mea cea acoperită cu rănile păcatelor și cu stricăciunea patimilor, Iisuse, și mă mântuiește.
+
+Cu strălucirea Celui ce a răsărit din tine, Fecioară, mintea mea o strălucește, inima o luminează, întunericul păcatelor îl izgonește și pierde ceața lenei mele.
+
+
+Numele Tău cel minunat, Iisuse, Mântuitorul nostru, îngerii îl laudă în ceruri și noi, păcătoșii, pe pământ, cu buze de tină, îl cântăm, pentru care miluiește-ne pe noi.
+
+Numele Tău cel preamare, Mântuitorule, Cel ce șezi de-a dreapta Tatălui, în ceruri se cinstește; iar pe pământ negrăita întruparea Ta se slăvește și pogorârea Ta în iad înfricoșează pe diavoli, de care și pe noi ne izbăvește, Hristoase Dumnezeule, și ne mântuiește.
+
+Avraam, ca într-o ghicitură mai înainte cunoscând lucrurile Tale cele minunate, cu frică s-a mirat. Și, apropiindu-se anii, ai fost cunoscut desfrânaților și tâlharilor, Iisuse, iar eu, ticălosul, petrec întru nebăgare de seamă; ci măcar de acum înainte dă-mi mie înțelepciunea și frica Ta, Îndurate, și mare milă.
+
+Slavă Tatălui și Fiului și Sfântului Duh. Și acum și pururea și în vecii vecilor. Amin.
+
+Născătoare de Dumnezeu, ceea ce ești izbăvitoare tare celor ce nădăjduiesc în tine, îndreptează-ne la liniștea cea lină a dumnezeieștii voiri, cu îndrăznirea ta cea de Maică, pe care o ai către Fiul tău, Mireasă dumnezeiască.
+
+Doamne, Iisuse Hristoase, Dumnezeul meu, Care cercetezi făptura Ta, Căruia Îți sunt arătate patimile mele și neputința firii noastre omenești și tăria pizmașului nostru, Tu Însuți mă acoperă de răutatea lui, pentru că puterea lui este tare, iar firea noastră pătimașă și tăria neputincioasă. Tu, dar, o, Bunule, Cel ce știi neputința noastră, Care și porți greutatea neputinței noastre, păzește-mă de tulburarea cugetelor și de potopul patimilor și fă-mă vrednic de această slujbă sfântă a Ta, ca nu cumva, în poftele mele cele spurcate, să pierd dulceața ei și să mă aflu fără de rușine și fără de frică înaintea Ta. Ci, Doamne, preadulcele meu Iisuse, miluiește-mă și mă mântuiește.
+
 Catavasie:
 
 Păzește-ne de nevoi pe noi, robii Tăi, Milostive, că noi cu deadinsul către Tine scăpăm, ca la Izbăvitorul cel preamilostiv, Stăpânul a toate, Domnul Iisus.
 
-## Rugăciunea Sfântului Isaac Sirul către Domnul nostru Iisus Hristos
-
-[RUBRICA]
-
-Înainte de condace și icoase se citește această rugăciune:
+## Condacul Acatistului, glas 8
 
 [TEXT]
 
-Domnului să ne rugăm.
+Apărătorul cel mai mare şi Doamne, Biruitorul iadului, ca cei ce ne-am izbăvit de moartea cea veşnică, cele de laudă aducem Ţie noi, robii Tăi şi zidirea Ta. Ci, ca Cel ce ai îndurări nenumărate, izbăveşte de toate nevoile, ca să strigăm Ţie: Iisuse, Fiul lui Dumnezeu miluieşte-mă!
 
-Doamne, Iisuse Hristoase, Dumnezeul meu, Care cercetezi făptura Ta, Căruia Îți sunt arătate patimile mele și neputința firii noastre omenești și tăria pizmașului nostru, Tu Însuți mă acoperă de răutatea lui, pentru că puterea lui este tare, iar firea noastră pătimașă și tăria neputincioasă. Tu, dar, o, Bunule, Cel ce știi neputința noastră, Care și porți greutatea neputinței noastre, păzește-mă de tulburarea cugetelor și de potopul patimilor și fă-mă vrednic de această slujbă sfântă a Ta, ca nu cumva, în poftele mele cele spurcate, să pierd dulceața ei și să mă aflu fără de rușine și fără de frică înaintea Ta. Ci, Doamne, preadulcele meu Iisuse, miluiește-mă și mă mântuiește.
+## După acatist
+
+[RUBRICA]
+
+După acatist, se cântă iar condacul 1, apoi:
+
+[TEXT]
+
+Cuvine-se cu adevărat să te fericim, Născătoare de Dumnezeu, cea pururea fericită și prea nevinovată și Maica Dumnezeului nostru. Ceea ce ești mai cinstită decât Heruvimii și mai slăvită fără de asemănare decât Serafimii, care, fără stricăciune, pe Dumnezeu Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te slăvim.
+
+Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi. (de 3 ori)
+
+Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
+
+Preasfântă Treime, miluiește-ne pe noi. Doamne, curățește păcatele noastre. Stăpâne, iartă fărădelegile noastre. Sfinte, cercetează și vindecă neputințele noastre, pentru numele Tău.
+
+Doamne miluiește. (de 3 ori)
+
+Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
+
+Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău; vie împărăția Ta; facă-Se voia Ta, precum în cer, așa și pe pământ. Pâinea noastră cea spre ființă dă-ne-o nouă astăzi; și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri; și nu ne duce pe noi în ispită, ci ne izbăvește de cel viclean.
+
+Preot:
+
+Că a Ta este împărăția și puterea și slava, a Tatălui și a Fiului și a Sfântului Duh, acum și pururea și în vecii vecilor.
+
+Strana:
+
+Amin.
+
+### Troparul, glasul al 2-lea
+
+[TEXT]
+
+Când Te-ai pogorât la moarte, Cel ce ești viața cea fără de moarte, atunci iadul ai omorât cu strălucirea Dumnezeirii; iar când ai înviat pe cei morți din cele de dedesubt, toate puterile cerești au strigat: Dătătorule de viață, Hristoase Dumnezeul nostru, slavă Ție.
+
+Slavă Tatălui și Fiului și Sfântului Duh. 
+
+Și acum și pururea și în vecii vecilor. Amin.
+
+Toate tainele tale sunt mai presus de cuget; toate sunt preaslăvite, Născătoare de Dumnezeu; cu curăția fiind pecetluită și cu fecioria păzită, cu adevărat Maică te-ai cunoscut, născând pe Dumnezeu cel adevărat, pe Care roagă-L să mântuiască sufletele noastre.
+
+
+
+Doamne miluiește. (de 40 de ori)
+
+Ceea ce ești mai cinstită decât Heruvimii și mai slăvită fără de asemănare decât Serafimii, care, fără stricăciune, pe Dumnezeu Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
+
+Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
+
+[RUBRICA]
+
+Preotul face otpustul zilei.
